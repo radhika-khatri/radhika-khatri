@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer passionate about building impactful AI applications and scalable backend systems. Enjoys turning ideas into real, working products and experimenting with emerging technologies. Work often lies at the intersection of AI, robotics, and automation, with a strong focus on solving meaningful, real-world problems. Always exploring new technologies and learning through hands-on building, while continuously pushing boundaries. Focused on creating smart, practical solutions that scale and make a real impact.
+I'm a software engineer who enjoys building AI-powered applications and scalable backend systems that solve real-world problems. I like turning ideas into working products and exploring technologies across AI, robotics, and automation. Most of my work revolves around building from scratch, experimenting, and solving challenging problems. Always curious and hands-on, I enjoy learning while creating things that actually get used. Currently, focused on developing smart, practical solutions that scale and make a meaningful impact.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radhika-khatri-76204327b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radhikakhatri9876@gmail.com) 
